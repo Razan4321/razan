@@ -64,9 +64,9 @@
     <div class="footer">
       <table style="margin-left: 580px;">
           <tr>
-              <td><a href="#"><h5 style="color: white;">call as   |</h4></a></td>
-              <td><a href="#"><h5 style="color:white;">politics   |</h4></a></td>
-              <td><a href="#"><h5 style="color:white;">privacy     </h4></a></td>
+              <td><a href="#"><h4style="color: white;">call as   |</h4></a></td>
+              <td><a href="#"><h4 style="color:white;">politics   |</h4></a></td>
+              <td><a href="#"><h4 style="color:white;">privacy     </h4></a></td>
           </tr>
       </table>  
       <p style="margin-left:603px;font-size: 10px;">جميع الحقوق محفوظة للدفعة 11 شبكات 2022</p>
